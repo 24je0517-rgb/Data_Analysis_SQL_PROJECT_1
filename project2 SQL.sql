@@ -1,6 +1,6 @@
 --PROJECT ON DATA ANALYSIS retail_sales 
 
-
+Delete project2 SQL.sql
 --CREATE TABLE retail_sales
 
 CREATE TABLE retail_sales 
